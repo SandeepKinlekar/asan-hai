@@ -2,6 +2,10 @@
   "name": "asan-hai",
   "version": "1.0.0",
   "homepage": "https://SandeepKinlekar.github.io/asan-hai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SandeepKinlekar/asan-hai.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
