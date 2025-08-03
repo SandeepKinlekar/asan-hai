@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/asan-hai/static/css/main.e6c13ad2.css",
-    "main.js": "/asan-hai/static/js/main.bd748e29.js",
+    "main.js": "/asan-hai/static/js/main.fa632db3.js",
     "static/js/488.17e56f34.chunk.js": "/asan-hai/static/js/488.17e56f34.chunk.js",
     "index.html": "/asan-hai/index.html",
     "main.e6c13ad2.css.map": "/asan-hai/static/css/main.e6c13ad2.css.map",
-    "main.bd748e29.js.map": "/asan-hai/static/js/main.bd748e29.js.map",
+    "main.fa632db3.js.map": "/asan-hai/static/js/main.fa632db3.js.map",
     "488.17e56f34.chunk.js.map": "/asan-hai/static/js/488.17e56f34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bd748e29.js"
+    "static/js/main.fa632db3.js"
   ]
 }
